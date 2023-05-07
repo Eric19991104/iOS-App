@@ -1,0 +1,803 @@
+[
+  {
+    "id": 1,
+    "current_servers": "481,070",
+    "name": "Counter-Strike: Global Offensive",
+    "url": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/",
+    "imageName": "1",
+    "introduction":"The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God."
+  },
+  {
+    "id": 2,
+    "current_servers": "378,756",
+    "name": "Dota 2",
+    "url": "https://store.steampowered.com/app/570/Dota_2/",
+    "imageName": "2",
+    "introduction":"每一天，全球各地有數百萬玩家化身為上百位英雄，投入 Dota 戰場進行攻防保衛戰。而無論是資歷不足掛齒的新手還是有著上千小時歷練的老手，Dota 的世界都總能讓人發掘出新事物。藉由持續做出更新來確保遊戲體驗的新鮮度，Dota 2 實為一款發展不同凡響的遊戲。"
+  },
+  {
+    "id": 3,
+    "current_servers": "201,884",
+    "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+    "url": "https://store.steampowered.com/app/578080/PLAYERUNKNOWNS_BATTLEGROUNDS/",
+    "imageName": "3",
+    "introduction":"絕地求生(PLAYERUNKNOWN’S BATTLEGROUNDS)是大逃殺類型的遊戲，每一局遊戲將有100名玩家參與， 他們將被投放在絕地島(battlegrounds)的上空，遊戲開始跳傘時所有人都一無所有。"
+  },
+  {
+    "id": 4,
+    "current_servers": "178,864",
+    "name": "Rust",
+    "url": "https://store.steampowered.com/app/252490/Rust/",
+    "imageName": "4",
+    "introduction":"The only aim in Rust is to survive - Overcome struggles such as hunger, thirst and cold. Build a fire. Build a shelter. Kill animals. Protect yourself from other players."
+  },
+  {
+    "id": 5,
+    "current_servers": "111,273",
+    "name": "Cyberpunk 2077",
+    "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "imageName": "5",
+    "introduction":"動作冒險開放世界《電馭叛客 2077》將讓你深入沉溺於肉體改造、爭權奪利又紙醉金迷的巨型都市「夜城」。化身非法傭兵 V，尋找某種絕無僅有的植入物，掌握長生不死的關鍵。自由打造角色的生化改造裝置、技能及遊玩風格，並盡情探索一望無際的巨型城市，讓每一次抉擇逐步左右劇情與世界的走向。"
+  },
+  {
+    "id": 6,
+    "current_servers": "101,899",
+    "name": "Grand Theft Auto V",
+    "url": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+    "imageName": "6",
+    "introduction":"PC 版 Grand Theft Auto V 可讓玩家以 4K 或更高的解析度，探索獲得大獎肯定的洛聖都和布雷恩郡遊戲世界，而且也可讓玩家體驗每秒 60 影格的遊戲執行效果。"
+  },
+  {
+    "id": 7,
+    "current_servers": "77,607",
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "url": "https://store.steampowered.com/app/359550/Tom_Clancys_Rainbow_Six_Siege/",
+    "imageName": "7",
+    "introduction":"《湯姆克蘭西之虹彩六號：圍攻行動》是廣受好評的第一人稱射擊遊戲品牌最新系列作品，由知名開發團隊 Ubisoft 蒙特婁工作室所打造。"
+  },
+  {
+    "id": 8,
+    "current_servers": "73,738",
+    "name": "Stardew Valley",
+    "url": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "imageName": "8",
+    "introduction":"You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?"
+  },
+  {
+    "id": 9,
+    "current_servers": "73,693",
+    "name": "Team Fortress 2",
+    "url": "https://store.steampowered.com/app/440/Team_Fortress_2/",
+    "imageName": "9",
+    "introduction":"Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!"
+  },
+  {
+    "id": 10,
+    "current_servers": "71,312",
+    "name": "Apex Legends",
+    "url": "https://store.steampowered.com/app/1172470/Apex/",
+    "imageName": "10",
+    "introduction":"《Apex 英雄》是一款由 Respawn Entertainment 打造的獲獎免費大逃殺團隊射擊遊戲。掌握一系列不斷增加且擁有強大技能的傳說級角色，並體驗戰略性小隊玩法和新一代大逃殺遊戲中的創新玩法。"
+  },
+  {
+    "id": 11,
+    "current_servers": "63,321",
+    "name": "ARK: Survival Evolved",
+    "url": "https://store.steampowered.com/app/346110/ARK_Survival_Evolved/",
+    "imageName": "11",
+    "introduction":"由虛幻4引擎打造的一款多人線上生存競技網遊，在一個超高自由度的開放世界裡，可以體驗採集、製造、打獵、收穫、建造、研究以及馴服恐龍等超多自由內容，感受酷熱白晝、冰冷夜晚的動態天氣系統以及饑餓口渴等現實中的生存挑戰，還要面對其它生存者的威脅，合作生存還是競技廝殺，由你決定！"
+  },
+  {
+    "id": 12,
+    "current_servers": "57,725",
+    "name": "Among Us",
+    "url": "https://store.steampowered.com/app/945360/Among_Us/",
+    "imageName": "12",
+    "introduction":"An online and local party game of teamwork and betrayal for 4-10 players...in space!"
+  },
+  {
+    "id": 13,
+    "current_servers": "56,998",
+    "name": "Destiny 2",
+    "url": "https://store.steampowered.com/app/1085660/Destiny_2/",
+    "imageName": "13",
+    "introduction":"《天命2》是一部動作類大型多人線上遊戲、一個會持續進步的遊戲世界，讓你和朋友們隨時隨地一起免費暢遊。"
+  },
+  {
+    "id": 14,
+    "current_servers": "56,174",
+    "name": "Rocket League",
+    "url": "https://store.steampowered.com/app/252950/Rocket_League/",
+    "imageName": "14",
+    "introduction":"Rocket League is a high-powered hybrid of arcade-style soccer and vehicular mayhem with easy-to-understand controls and fluid, physics-driven competition. Rocket League includes casual and competitive Online Matches, a fully-featured offline Season Mode, special “Mutators” that let you change the rules entirely, hockey and basketball-inspired Extra Modes, and more than 500 trillion possible cosmetic customization combinations."
+  },
+  {
+    "id": 15,
+    "current_servers": "53,383",
+    "name": "Half-Life 2: Deathmatch",
+    "url": "https://store.steampowered.com/app/320/HalfLife_2_Deathmatch/",
+    "imageName": "15",
+    "introduction":"《戰慄時空 2》遊戲系列中的快節奏多人動作遊戲！HL2 的物理運算為死鬥模式遊戲開創新局。直接挑戰死鬥模式，或嘗試合成人對抗反抗軍的團戰模式。"
+  },
+  {
+    "id": 16,
+    "current_servers": "45,925",
+    "name": "Wallpaper Engine",
+    "url": "https://store.steampowered.com/app/431960/Wallpaper_Engine/",
+    "imageName": "16",
+    "introduction":"在桌面上使用令人驚嘆的動態桌布。您可以自行製作動畫或匯入視訊/網站來創造新的桌布，並在 Steam Workshop 上與大家分享!"
+  },
+  {
+    "id": 17,
+    "current_servers": "39,720",
+    "name": "Monster Hunter: World",
+    "url": "https://store.steampowered.com/app/582010/Monster_Hunter_World/",
+    "imageName": "17",
+    "introduction":"新的生命之地。狩獵, 就是本能! 在最新作「Monster Hunter: World」中, 玩家可以體驗終極的狩獵生活, 活用新建構的世界中各種各樣的地形 與生態環境享受狩獵的驚喜與興奮。"
+  },
+  {
+    "id": 18,
+    "current_servers": "39,116",
+    "name": "Sid Meier's Civilization VI",
+    "url": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/",
+    "imageName": "18",
+    "introduction":"《文明帝国VI》提供了多种新方式让您与世界互动、在地图上扩张城市、发展文明，以及对抗历史上的伟大领袖，以建立起经得起时间考验的强盛文明。共有20位史上著名的领袖任君挑选，包括秦始皇。"
+  },
+  {
+    "id": 19,
+    "current_servers": "37,566",
+    "name": "Dead by Daylight",
+    "url": "https://store.steampowered.com/app/381210/Dead_by_Daylight/",
+    "imageName": "19",
+    "introduction":"《Dead by Daylight》是一款多人（4對1）恐怖遊戲，由一名玩家扮殘暴殺手，其餘的四名玩家則扮演逃生者。逃生者試圖從殺手的魔爪下逃亡，避免被他捉住、折磨及殺死。"
+  },
+  {
+    "id": 20,
+    "current_servers": "36,780",
+    "name": "Warframe",
+    "url": "https://store.steampowered.com/app/230410/Warframe/",
+    "imageName": "20",
+    "introduction":"Warframe 是一款在不斷變化的科幻世界中的多人合作免費在線動作遊戲。和你的同伴一起加入遍布太陽系的玩家與敵人對抗遊戲，駕馭 Warframe 。單獨作戰或者一起對抗威脅整個世界的敵人。"
+  },
+  {
+    "id": 21,
+    "current_servers": "36,756",
+    "name": "Terraria",
+    "url": "https://store.steampowered.com/app/105600/Terraria/",
+    "imageName": "21",
+    "introduction":"Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!"
+  },
+  {
+    "id": 22,
+    "current_servers": "33,593",
+    "name": "Football Manager 2021",
+    "url": "https://store.steampowered.com/app/1263850/Football_Manager_2021/",
+    "imageName": "22",
+    "introduction":"遊戲中的新功能和更新，為你帶來提升到新層次的深度、戲劇性與最貼近現實的足球。《FM21》為你提供前所未見的權限，逐步開發你的管理能力，帶領球隊邁向成功。"
+  },
+  {
+    "id": 23,
+    "current_servers": "32,165",
+    "name": "7 Days to Die",
+    "url": "https://store.steampowered.com/app/251570/7_Days_to_Die/",
+    "imageName": "23",
+    "introduction":"7 Days to Die is an open-world game that is a unique combination of first person shooter, survival horror, tower defense, and role-playing games. Play the definitive zombie survival sandbox RPG that came first. Navezgane awaits!"
+  },
+  {
+    "id": 24,
+    "current_servers": "31,909",
+    "name": "Phasmophobia",
+    "url": "https://store.steampowered.com/app/739630/Phasmophobia/",
+    "imageName": "24",
+    "introduction":"Phasmophobia is a 4 player online co-op psychological horror. Paranormal activity is on the rise and it’s up to you and your team to use all the ghost hunting equipment at your disposal in order to gather as much evidence as you can."
+  },
+  {
+    "id": 25,
+    "current_servers": "30,669",
+    "name": "PAYDAY 2",
+    "url": "https://store.steampowered.com/app/218620/PAYDAY_2/",
+    "imageName": "25",
+    "introduction":"PAYDAY 2 is an action-packed, four-player co-op shooter that once again lets gamers don the masks of the original PAYDAY crew - Dallas, Hoxton, Wolf and Chains - as they descend on Washington DC for an epic crime spree."
+  },
+  {
+    "id": 26,
+    "current_servers": "26,128",
+    "name": "Left 4 Dead 2",
+    "url": "https://store.steampowered.com/app/550/Left_4_Dead_2/",
+    "imageName": "26",
+    "introduction":"讓大家引頸期待的《惡靈勢力 2》（L4D2）以僵屍末日為遊戲背景，是 2008 年最受歡迎且獲獎無數的合作遊戲《惡靈勢力》的續作。"
+  },
+  {
+    "id": 27,
+    "current_servers": "24,787",
+    "name": "Hades",
+    "url": "https://store.steampowered.com/app/1145360/Hades/",
+    "imageName": "27",
+    "introduction":"Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre."
+  },
+  {
+    "id": 28,
+    "current_servers": "24,159",
+    "name": "War Thunder",
+    "url": "https://store.steampowered.com/app/236390/War_Thunder/",
+    "imageName": "28",
+    "introduction":"War Thunder is the most comprehensive free-to-play, cross-platform, MMO military game for Windows, Linux, Mac, PlayStation®4 and Xbox One dedicated to aviation, armoured vehicles, and naval craft from World War II and the Cold War. Join now and take part in major battles on land, in the air, and at sea, fighting with millions of players from all over the world in an ever-evolving environment."
+  },
+  {
+    "id": 29,
+    "current_servers": "24,139",
+    "name": "Garry's Mod",
+    "url": "https://store.steampowered.com/app/4000/Garrys_Mod/",
+    "imageName": "29",
+    "introduction":"Garry's Mod is a physics sandbox. There aren't any predefined aims or goals. We give you the tools and leave you to play."
+  },
+  {
+    "id": 30,
+    "current_servers": "24,115",
+    "name": "Don't Starve Together",
+    "url": "https://store.steampowered.com/app/322330/Dont_Starve_Together/",
+    "imageName": "30",
+    "introduction":"《饑荒聯機版》是原生態生存遊戲《饑荒》的多人聯機獨立資料片。"
+  },
+  {
+    "id": 31,
+    "current_servers": "23,798",
+    "name": "VRChat",
+    "url": "https://store.steampowered.com/app/438100/VRChat/",
+    "imageName": "31",
+    "introduction":"Join our growing community as you explore, play, and help craft the future of social VR. Create worlds and custom avatars. Welcome to VRChat."
+  },
+  {
+    "id": 32,
+    "current_servers": "23,577",
+    "name": "Total War: WARHAMMER II",
+    "url": "https://store.steampowered.com/app/594570/Total_War_WARHAMMER_II/",
+    "imageName": "32",
+    "introduction":"獲獎作品 Total War: Warhammer的續集, Total War: Warhammer II將會在新世界給大家帶來一次令人吃驚的探索、擴張、和征服旅程。"
+  },
+  {
+    "id": 33,
+    "current_servers": "21,726",
+    "name": "Unturned",
+    "url": "https://store.steampowered.com/app/304930/Unturned/",
+    "imageName": "33",
+    "introduction":"You're a survivor in the zombie infested ruins of society, and must work with your friends and forge alliances to remain among the living."
+  },
+  {
+    "id": 34,
+    "current_servers": "21,456",
+    "name": "DayZ",
+    "url": "https://store.steampowered.com/app/221100/DayZ/",
+    "imageName": "34",
+    "introduction":"你能在殘酷的後末日世界中生存多久？這片土地遍地都是受感染的「殭屍」，你必須和其倖存者展開競爭，爭奪有限的資源。你會和陌生人一起組隊合作？還是選擇成為一名孤狼，以避免遭到背叛？這是《DayZ》－－這是你的故事。"
+  },
+  {
+    "id": 35,
+    "current_servers": "21,273",
+    "name": "Red Dead Redemption 2",
+    "url": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+    "imageName": "35",
+    "introduction":"Red Dead Redemption 2 是一款囊括超過 175 座年度遊戲獎項，並獲得超過 250 筆滿分評價的大作，講述在邁向現代化之初的美國，亡命之徒亞瑟．摩根以及惡名昭彰的范特林幫派橫越美國亡命天涯的傳奇故事。玩家也能免費進入與 Red Dead 線上模式共享的遊戲世界。"
+  },
+  {
+    "id": 36,
+    "current_servers": "21,059",
+    "name": "The Elder Scrolls V: Skyrim Special Edition",
+    "url": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/",
+    "imageName": "36",
+    "introduction":"Winner of more than 200 Game of the Year Awards, Skyrim Special Edition brings the epic fantasy to life in stunning detail. The Special Edition includes the critically acclaimed game and add-ons with all-new features like remastered art and effects, volumetric god rays, dynamic depth of field, screen-space reflections, and more. Skyrim Special Edition also brings the full power of mods to the PC and consoles. New quests, environments, characters, dialogue, armor, weapons and more – with Mods, there are no limits to what you can experience."
+  },
+  {
+    "id": 37,
+    "current_servers": "20,929",
+    "name": "Hearts of Iron IV",
+    "url": "https://store.steampowered.com/app/394360/Hearts_of_Iron_IV/",
+    "imageName": "37",
+    "introduction":"Victory is at your fingertips! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV lets you take command of any nation in World War II; the most engaging conflict in world history."
+  },
+  {
+    "id": 38,
+    "current_servers": "20,878",
+    "name": "Sea of Thieves",
+    "url": "https://store.steampowered.com/app/1172620/Sea_of_Thieves/",
+    "imageName": "38",
+    "introduction":"Sea of Thieves 無論在航行、打鬥或冒險、掠奪上都能讓您深刻體驗海盜生活，成為自立為王的傳奇海盜。多樣角色讓您可以自由探索遊戲世界，以及自由選擇與玩家互動的方式。"
+  },
+  {
+    "id": 39,
+    "current_servers": "20,741",
+    "name": "Cities: Skylines",
+    "url": "https://store.steampowered.com/app/255710/Cities_Skylines/",
+    "imageName": "39",
+    "introduction":"Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city whilst expanding on some well-established tropes of the city building experience."
+  },
+  {
+    "id": 40,
+    "current_servers": "20,708",
+    "name": "Bloons TD 6",
+    "url": "https://store.steampowered.com/app/960090/Bloons_TD_6/",
+    "imageName": "40",
+    "introduction":"紅極一時的塔防遊戲"
+  },
+  {
+    "id": 41,
+    "current_servers": "20,219",
+    "name": "FINAL FANTASY XIV Online",
+    "url": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/?l=tchinese&cc=it",
+    "imageName": "41",
+    "introduction":"Take part in an epic and ever-changing FINAL FANTASY as you adventure and explore with friends from around the world."
+  },
+  {
+    "id": 42,
+    "current_servers": "19,991",
+    "name": "Sid Meier's Civilization V",
+    "url": "https://store.steampowered.com/app/8930/Sid_Meiers_Civilization_V/",
+    "imageName": "42",
+    "introduction":"Create, discover, and download new player-created maps, scenarios, interfaces, and more!"
+  },
+  {
+    "id": 43,
+    "current_servers": "19,940",
+    "name": "Eternal Return: Black Survival",
+    "url": "https://store.steampowered.com/app/1049590/_/",
+    "imageName": "43",
+    "introduction":"為自己而戰！在獨特且刺激的全方位大逃殺生存戰中擊敗其他幸存者，贏得勝利榮光！與喜愛的角色合成一體，在獨特的材料搜索與裝備制作中探索出屬於你的玩法策略，最終幸存者非你莫屬！"
+  },
+  {
+    "id": 44,
+    "current_servers": "19,634",
+    "name": "The Witcher 3: Wild Hunt",
+    "url": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+    "imageName": "44",
+    "introduction":"當戰火在北方領域延燒，傑洛特將接下終其一生最重大的委託：追尋可以撼動世界的武器，預言之子的下落。"
+  },
+  {
+    "id": 45,
+    "current_servers": "19,296",
+    "name": "RimWorld",
+    "url": "https://store.steampowered.com/app/294100/RimWorld/",
+    "imageName": "45",
+    "introduction":"由聰明的人工智能故事講述者驅動的科幻殖民地模擬電腦遊戲。 通過模擬心理學、生態學、槍戰、近戰、氣候、生物群落、外交、人際關係、藝術、醫學、貿易等來生成故事。"
+  },
+  {
+    "id": 46,
+    "current_servers": "19,020",
+    "name": "Age of Empires II: Definitive Edition",
+    "url": "https://store.steampowered.com/app/813780/Age_of_Empires_II_Definitive_Edition/",
+    "imageName": "46",
+    "introduction":"有史以來最受歡迎的戰略遊戲之一迎來 20 週年，為此我們推出了《Age of Empires II: Definitive Edition》。本作擁有驚人的 4K 超高畫質，全面重置的新原聲音樂，以及內含 3 個新戰役和 4 個新文明的全新內容：《最後的可汗》。"
+  },
+  {
+    "id": 47,
+    "current_servers": "18,378",
+    "name": "SMITE",
+    "url": "https://store.steampowered.com/app/386360/SMITE/",
+    "imageName": "47",
+    "introduction":"Join 35+ million players in SMITE, the Battleground of the Gods! Wield Thor’s hammer, turn your foes to stone as Medusa, or flex your divine power as one of 100+ other mythological icons. Become a God and play FREE today!"
+  },
+  {
+    "id": 48,
+    "current_servers": "16,887",
+    "name": "The Elder Scrolls Online",
+    "url": "https://store.steampowered.com/app/306130/The_Elder_Scrolls_Online/",
+    "imageName": "48",
+    "introduction":"Join over 16 million players in the award-winning online multiplayer RPG and experience limitless adventure in a persistent Elder Scrolls world. Battle, craft, steal, or explore, and combine different types of equipment and abilities to create your own style of play. No game subscription required."
+  },
+  {
+    "id": 49,
+    "current_servers": "16,573",
+    "name": "Black Desert Online",
+    "url": "https://store.steampowered.com/app/1258320/_/",
+    "imageName": "49",
+    "introduction":"Experience the vast open world of the Black Desert and immerse yourself in a game that redefines the MMORPG genre with its stunning graphics, skill-based combat, and Siege wars. Adventurers can also explore, fish, tame horses, cook, gather, hunt and so much more in the ultimate MMORPG, Black Desert."
+  },
+  {
+    "id": 50,
+    "current_servers": "16,541",
+    "name": "The Forest",
+    "url": "https://store.steampowered.com/app/242760/The_Forest/",
+    "imageName": "50",
+    "introduction":"As the lone survivor of a passenger jet crash, you find yourself in a mysterious forest battling to stay alive against a society of cannibalistic mutants. Build, explore, survive in this terrifying first person survival horror simulator."
+  },
+  {
+    "id": 51,
+    "current_servers": "16,390",
+    "name": "Raft",
+    "url": "https://store.steampowered.com/app/648800/Raft/",
+    "imageName": "51",
+    "introduction":"Raft throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!"
+  },
+  {
+    "id": 52,
+    "current_servers": "15,985",
+    "name": "Fallout 4",
+    "url": "https://store.steampowered.com/app/377160/Fallout_4/",
+    "imageName": "52",
+    "introduction":"以《異塵餘生3》、《上古卷軸V：無界天際》等作品奪獎的 Bethesda Game Studios，邀您進入《異塵餘生4》的世界，體驗 Bethesda 最具雄心壯志的鉅作，享受新一代的開放世界遊戲。"
+  },
+  {
+    "id": 53,
+    "current_servers": "15,773",
+    "name": "DARK SOULS™ III",
+    "url": "https://store.steampowered.com/app/374320/DARK_SOULS_III/",
+    "imageName": "53",
+    "introduction":"Dark Souls即將推出極具話題性及代表性的系列新作。"
+  },
+  {
+    "id": 54,
+    "current_servers": "15,698",
+    "name": "Tabletop Simulator",
+    "url": "https://store.steampowered.com/app/286160/Tabletop_Simulator/",
+    "imageName": "54",
+    "introduction":"Tabletop Simulator is the only simulator where you can let your aggression out by flipping the table! There are no rules to follow: just you, a physics sandbox, and your friends. Make your own online board games or play the thousands of community created mods. Unlimited gaming possibilities!"
+  },
+  {
+    "id": 55,
+    "current_servers": "15,593",
+    "name": "Stellaris",
+    "url": "https://store.steampowered.com/app/281990/Stellaris/",
+    "imageName": "55",
+    "introduction":"Explore a galaxy full of wonders in this sci-fi grand strategy game from Paradox Development Studios. Interact with diverse alien races, discover strange new worlds with unexpected events and expand the reach of your empire. Each new adventure holds almost limitless possibilities."
+  },
+  {
+    "id": 56,
+    "current_servers": "14,819",
+    "name": "Halo: The Master Chief Collection",
+    "url": "https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/",
+    "imageName": "56",
+    "introduction":"一舉入手涵蓋士官長傳奇征途的六部遊戲作品！專為PC平台定制打造，本合輯內的六部力作將逐部推出。無論你是曆戰多年的硬核粉絲，還是剛剛邂逅斯巴達II戰士John-117的新玩家，《最後一戰：士官長合輯》都能給你帶來究極《最後一戰》遊戲體驗。"
+  },
+  {
+    "id": 57,
+    "current_servers": "13,632",
+    "name": "EA SPORTS™ FIFA 21 ",
+    "url": "https://store.steampowered.com/app/1313860/EA_SPORTS_FIFA_21/",
+    "imageName": "57",
+    "introduction":"暢玩《FIFA 21》，取得David Beckham。 12月15日開始至2021年1月15日，暢玩《FIFA 21》即可在FUT取得不可交易的David Beckham物品，並透過VOLTA突破者取得他*。"
+  },
+  {
+    "id": 58,
+    "current_servers": "13,370",
+    "name": "NBA 2K21",
+    "url": "https://store.steampowered.com/app/1225330/NBA_2K21/",
+    "imageName": "58",
+    "introduction":"《NBA 2K21》是世界上最知名、最暢銷的《NBA 2K》最新系列作品，讓你能在享受獨步全球的運動遊戲體驗。"
+  },
+  {
+    "id": 59,
+    "current_servers": "13,305",
+    "name": "Divinity: Original Sin 2",
+    "url": "https://store.steampowered.com/app/435150/Divinity_Original_Sin_2__Definitive_Edition/",
+    "imageName": "59",
+    "introduction":"The critically acclaimed RPG that raised the bar, from the creators of Baldur's Gate 3. Gather your party. Master deep, tactical combat. Venture as a party of up to four - but know that only one of you will have the chance to become a God."
+  },
+  {
+    "id": 60,
+    "current_servers": "13,052",
+    "name": "Arma 3",
+    "url": "https://store.steampowered.com/app/107410/Arma_3/",
+    "imageName": "60",
+    "introduction":"大型軍事 sandbox 的遊戲方式，讓您體驗真正的戰場。這是電腦平台上首屈一指的軍事遊戲，內容包含豐富的單人與多人模式玩法、超過 20 種載具、40 種武器，為自製內容帶來無限的可能。Arma 3 帶您進入戰場－－真實多變的開放世界。"
+  },
+  {
+    "id": 61,
+    "current_servers": "13,021",
+    "name": "tModLoader",
+    "url": "https://store.steampowered.com/app/1281930/tModLoader/",
+    "imageName": "61",
+    "introduction":"Dig, Fight, and Build your way through the world of player-created mods on Terraria with tModLoader - this DLC makes modding Terraria a reality!"
+  },
+  {
+    "id": 62,
+    "current_servers": "13,003",
+    "name": "Mount & Blade II: Bannerlord",
+    "url": "https://store.steampowered.com/app/261550/Mount__Blade_II_Bannerlord/",
+    "imageName": "62",
+    "introduction":"The horns sound, the ravens gather. An empire is torn by civil war. Beyond its borders, new kingdoms rise. Gird on your sword, don your armour, summon your followers and ride forth to win glory on the battlefields of Calradia. Establish your hegemony and create a new world out of the ashes of the old."
+  },
+  {
+    "id": 63,
+    "current_servers": "12,940",
+    "name": "Brawlhalla",
+    "url": "https://store.steampowered.com/app/291550/Brawlhalla/",
+    "imageName": "63",
+    "introduction":"An epic platform fighter for up to 8 players online or locally. Try casual free-for-alls, ranked matches, or invite friends to a private room. And it's free! Play cross-platform with millions of players on PS4, Xbox One, Nintendo Switch, iOS, Android and Steam! Frequent updates. Over fifty Legends."
+  },
+  {
+    "id": 64,
+    "current_servers": "12,865",
+    "name": "NBA 2K20",
+    "url": "https://store.steampowered.com/app/1089350/NBA_2K20/",
+    "imageName": "64",
+    "introduction":"2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics & gameplay, ground breaking game modes, and unparalleled player control and customization."
+  },
+  {
+    "id": 65,
+    "current_servers": "12,667",
+    "name": "Europa Universalis IV",
+    "url": "https://store.steampowered.com/app/236850/Europa_Universalis_IV/",
+    "imageName": "65",
+    "introduction":"Four centuries of detailed history come alive in Paradox’s classic grand strategy game. Lead any nation from Renaissance to Revolution in a complex simulation of the early modern world. Master the art of war, diplomacy and trade to shape and change your nation’s history!"
+  },
+  {
+    "id": 66,
+    "current_servers": "12,124",
+    "name": "Crusader Kings III",
+    "url": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/",
+    "imageName": "66",
+    "introduction":"Paradox Development Studio 即將推出至今最受歡迎策略遊戲之一的系列續作。《Crusader Kings III》承襲了昔日源遠流長的大型戰略遊戲體驗，並帶來許多能確保您王室家族取得勝利的新手段。"
+  },
+  {
+    "id": 67,
+    "current_servers": "12,028",
+    "name": "Fall Guys: Ultimate Knockout",
+    "url": "https://store.steampowered.com/app/1097150/_/",
+    "imageName": "67",
+    "introduction":"Fall Guys是一款超大型多人派對遊戲，最多可容納60人同時線上混戰。一輪又一輪敵我難分的比賽中，刺激和混亂程度無限升級。"
+  },
+  {
+    "id": 68,
+    "current_servers": "11,928",
+    "name": "Football Manager 2020",
+    "url": "https://store.steampowered.com/app/1100600/Football_Manager_2020/",
+    "imageName": "68",
+    "introduction":"善用自己的想法，讓球會按你的意思而動。FM20 中每個決定都有重大影響，新的功能與更加精細入微的遊戲機制，使足球管理更真實、新鮮和富有深度，讓領隊對自己和球隊的未來肩負更大的責任。"
+  },
+  {
+    "id": 69,
+    "current_servers": "11,894",
+    "name": "The Sims™ 4",
+    "url": "https://store.steampowered.com/app/1222670/The_Sims_4/",
+    "imageName": "69",
+    "introduction":"釋放您的想像力並創造一個全然獨特的模擬市民世界吧！探索和自訂模擬市民和住宅的每個細節，還有更多內容等著您。選擇模擬市民的外觀、行為和穿著。決定他們每天的生活方式。為每個家庭設計和建造令人驚豔的住宅，然後用您最愛的家具和裝飾品進行點綴。前往不同的社區，與其他模擬市民相見歡，瞭解他們的生活方式。在與獨特的環境中探索美麗的地點，並隨心而行展開冒險。管理模擬市民日常生活面對的心情起伏，看看將您自己的現實和幻想的場景放在遊戲裡究竟會如何！一邊以你的方式講述你的故事，一邊發展人際關係、追求事業和生活抱負，並讓您沉浸於一個非凡且充滿無限可能性的遊戲之中。"
+  },
+  {
+    "id": 70,
+    "current_servers": "11,780",
+    "name": "Space War: Infinity",
+    "url": "https://store.steampowered.com/app/1086160/Space_War_Infinity/",
+    "imageName": "70",
+    "introduction":"Space War: Infinity is a semi-procedural shoot-'em-up with a System of upgrades of the ship and unlocking of items."
+  },
+  {
+    "id": 71,
+    "current_servers": "11,501",
+    "name": "Factorio",
+    "url": "https://store.steampowered.com/app/427520/Factorio/",
+    "imageName": "71",
+    "introduction":"Factorio is a game about building and creating automated factories to produce items of increasing complexity, within an infinite 2D world. Use your imagination to design your factory, combine simple elements into ingenious structures, and finally protect it from the creatures who don't really like you."
+  },
+  {
+    "id": 72,
+    "current_servers": "11,245",
+    "name": "Risk of Rain 2",
+    "url": "https://store.steampowered.com/app/632360/Risk_of_Rain_2/",
+    "imageName": "72",
+    "introduction":"浴血奮戰，殺出暴戾怪物的重圍，逃離混亂外星球上的劫難。您可孤軍奮戰，也可與好友並肩作戰。 以出人意料的方式合成戰利品，同時精通每個角色，直至您自己成為初次迫降時曾滿心懼怕的恐怖威脅。"
+  },
+  {
+    "id": 73,
+    "current_servers": "10,919",
+    "name": "Total War: THREE KINGDOMS",
+    "url": "https://store.steampowered.com/app/779340/Total_War_THREE_KINGDOMS/",
+    "imageName": "73",
+    "introduction":"《Total War™: THREE KINGDOMS》是屢獲殊榮的《Total War》系列中第一款經典重現中國古代壯烈戰爭的作品。建設帝國與攻城掠地的回合制戰役，加上驚心動魄的即時戰鬥，《THREE KINGDOMS》以充滿英雄與傳奇的時代為舞台，顛覆了玩家對本系列的想像。"
+  },
+  {
+    "id": 74,
+    "current_servers": "10,889",
+    "name": "Deep Rock Galactic",
+    "url": "https://store.steampowered.com/app/548430/Deep_Rock_Galactic/",
+    "imageName": "74",
+    "introduction":"Deep Rock Galactic 是一款多人合作科幻型第一人稱射擊遊戲，設有了不起的矮人、100% 可破壞的環境、由程式生成的洞穴以及無數外星怪物群體。"
+  },
+  {
+    "id": 75,
+    "current_servers": "10,781",
+    "name": "Satisfactory",
+    "url": "https://store.steampowered.com/app/526870/Satisfactory/",
+    "imageName": "75",
+    "introduction":"《Satisfactory》是一款第一人稱在開放世界建造工廠的遊戲，充滿探索與戰鬥。可以單人或與好友一起探索外星球、建造多樓層工廠、進入自動輸送帶天堂！"
+  },
+  {
+    "id": 76,
+    "current_servers": "10,677",
+    "name": "Oxygen Not Included",
+    "url": "https://store.steampowered.com/app/457140/Oxygen_Not_Included/",
+    "imageName": "76",
+    "introduction":"Oxygen Not Included is a space-colony simulation game. Deep inside an alien space rock your industrious crew will need to master science, overcome strange new lifeforms, and harness incredible space tech to survive, and possibly, thrive."
+  },
+  {
+    "id": 77,
+    "current_servers": "10,668",
+    "name": "Borderlands 3",
+    "url": "https://store.steampowered.com/app/397540/3/",
+    "imageName": "77",
+    "introduction":"The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds & enemies and save your home from the most ruthless cult leaders in the galaxy."
+  },
+  {
+    "id": 78,
+    "current_servers": "10,485",
+    "name": "Farming Simulator 19",
+    "url": "https://store.steampowered.com/app/787860/Farming_Simulator_19/",
+    "imageName": "78",
+    "introduction":"百萬銷量的品牌將以全新圖形引擎燃爆回歸，讓人上癮的遊戲玩法以及身臨其境的視效，邀請玩家體驗有史以來最大型的農耕模擬遊戲！"
+  },
+  {
+    "id": 79,
+    "current_servers": "10,427",
+    "name": "Euro Truck Simulator 2",
+    "url": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/",
+    "imageName": "79",
+    "introduction":"Travel across Europe as king of the road, a trucker who delivers important cargo across impressive distances! With dozens of cities to explore, your endurance, skill and speed will all be pushed to their limits."
+  },
+  {
+    "id": 80,
+    "current_servers": "9,518",
+    "name": "Red Dead Online",
+    "url": "https://store.steampowered.com/app/1404210/Red_Dead_Online/",
+    "imageName": "80",
+    "introduction":"一腳踏入 Red Dead 線上模式生氣盎然、時刻演進的世界，親身體驗在美國拓荒邊境闖蕩的生活。 在這個深刻動人又細緻不已的世界，您可以縱馬追捕通緝要犯；可以與不法幫派或其他玩家展開生死搏鬥；可以舉槍打獵、釣魚、貿易；可以搜集奇珍異寶；可以經營私釀酒事業等等，無限可能待您探索。"
+  },
+  {
+    "id": 81,
+    "current_servers": "9,509",
+    "name": "Paladins",
+    "url": "https://store.steampowered.com/app/444090/Paladins/",
+    "imageName": "81",
+    "introduction":"Join 25+ million players in Paladins, the free-to-play fantasy team-based shooter sensation. Wield guns and magic as a legendary Champion of the Realm, customizing your core set of abilities to play exactly how you want to play."
+  },
+  {
+    "id": 82,
+    "current_servers": "9,403",
+    "name": "Slay the Spire",
+    "url": "https://store.steampowered.com/app/646570/Slay_the_Spire/",
+    "imageName": "82",
+    "introduction":"我們將卡牌遊戲與 Roguelike 遊戲融為一體，製作出了這款最棒的單機牌組構築遊戲。打造出獨一無二的牌組、遇見無數離奇的生物、發現威力強大的遺物、去屠戮這座高塔吧！"
+  },
+  {
+    "id": 83,
+    "current_servers": "9,346",
+    "name": "Conan Exiles",
+    "url": "https://store.steampowered.com/app/440900/Conan_Exiles/",
+    "imageName": "83",
+    "introduction":"一款以《王者之劍》的國度為背景的網路多人生存遊戲，如今新增坐騎和坐騎上戰鬥玩法。在單人與多人遊戲中，在開放世界沙箱中生存下來，並建造你的家園和帝國，征服敵人。"
+  },
+  {
+    "id": 84,
+    "current_servers": "8,960",
+    "name": "World of Warships",
+    "url": "https://store.steampowered.com/app/552990/World_of_Warships/",
+    "imageName": "84",
+    "introduction":"從超過 300 艘歷史艦艇中挑出您最喜歡的來掌舵，在免費暢玩的《戰艦世界》中體驗史詩級海戰，以及戰略和即時戰鬥的完美結合，還可以為您的艦隊安裝旗幟、迷彩、升級品和天賦異稟的指揮官，還有更多豐富內容！"
+  },
+  {
+    "id": 85,
+    "current_servers": "8,893",
+    "name": "Assassin's Creed Odyssey",
+    "url": "https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/",
+    "imageName": "85",
+    "introduction":"在《Assassin's Creed® Odyssey》當中主宰自己的命運。 從一名流浪者蛻變成傳奇人物，踏上這趟奧德賽之旅，找出你過往的祕密並改變古希臘的命運。"
+  },
+  {
+    "id": 86,
+    "current_servers": "8,451",
+    "name": "World of Tanks Blitz",
+    "url": "https://store.steampowered.com/app/444200/_/",
+    "imageName": "86",
+    "introduction":"冬季童話和節日瘋狂交織在一塊。馴鹿戰車，在覆滿冰雪的地圖上進行空戰，還有一整列火車的禮物等著您！"
+  },
+  {
+    "id": 87,
+    "current_servers": "8,123",
+    "name": "Fallout 76",
+    "url": "https://store.steampowered.com/app/1151340/Fallout_76/",
+    "imageName": "87",
+    "introduction":"「鋼鐵黎明」是全新鋼鐵兄弟會任務線裡的第一個章節，《Fallout 76》玩家可免費暢玩。蕾拉．拉瑪尼聖騎士和她的部隊從加州前來創立新的阿帕拉契分會。你必須選擇與其他陣營合作或對抗他們，才能取得成功。"
+  },
+  {
+    "id": 88,
+    "current_servers": "8,019",
+    "name": "Elite Dangerous",
+    "url": "https://store.steampowered.com/app/359320/Elite_Dangerous/",
+    "imageName": "88",
+    "introduction":"Take control of your own starship in a cutthroat galaxy. Elite Dangerous is the definitive massively multiplayer space epic."
+  },
+  {
+    "id": 89,
+    "current_servers": "8,004",
+    "name": "Yu-Gi-Oh! Duel Links",
+    "url": "https://store.steampowered.com/app/601510/YuGiOh_Duel_Links/",
+    "imageName": "89",
+    "introduction":"在《Yu-Gi-Oh! Duel Links》與世界各地的決鬥好手一較高下！ 進入一個時空交錯、連結所有決鬥者的世界。"
+  },
+  {
+    "id": 90,
+    "current_servers": "7,879",
+    "name": "No Man's Sky",
+    "url": "https://store.steampowered.com/app/275850/No_Mans_Sky/",
+    "imageName": "90",
+    "introduction":"「無人之境」是一個科幻題材的遊戲，需要玩家在一個按程式生成的無限宇宙中探索和生存。"
+  },
+  {
+    "id": 91,
+    "current_servers": "7,696",
+    "name": "STAR WARS™: The Old Republic™",
+    "url": "https://store.steampowered.com/app/1286830/_/",
+    "imageName": "91",
+    "introduction":"《星際大戰™：舊共和國™》是可免費遊玩的大型多人線上角色扮演遊戲，讓你成為個人史詩劇情的焦點。在經典電影系列三千多年前的遙遠銀河系中，扮演絕地武士、西斯、賞金獵人，或是其他《星際大戰》的眾多經典角色。"
+  },
+  {
+    "id": 92,
+    "current_servers": "7,530",
+    "name": "eFootball PES 2021 SEASON UPDATE",
+    "url": "https://store.steampowered.com/app/1259970/eFootball_PES_2021_SEASON_UPDATE/",
+    "imageName": "92",
+    "introduction":"eFootball PES 2021 Season Update*伴你歡慶PES系列25週年 - 特別紀念優惠價！"
+  },
+  {
+    "id": 93,
+    "current_servers": "7,485",
+    "name": "Soundpad",
+    "url": "https://store.steampowered.com/app/629520/Soundpad/",
+    "imageName": "93",
+    "introduction":"Play sounds in voice chats in high digital quality. Add sounds or music to your microphone signal so others will hear it, too."
+  },
+  {
+    "id": 94,
+    "current_servers": "7,260",
+    "name": "Path of Exile",
+    "url": "https://www.pathofexile.com/game",
+    "imageName": "94",
+    "introduction":"Path of Exile is an online Action RPG set in the dark fantasy world of Wraeclast. It is designed around a strong online item economy, deep character customisation, competitive PvP and ladder races. The game is completely free and will never be pay to win."
+  },
+  {
+    "id": 95,
+    "current_servers": "7,226",
+    "name": "Counter-Strike",
+    "url": "https://store.steampowered.com/app/10/CounterStrike/",
+    "imageName": "95",
+    "introduction":"來玩世界第一的線上動作遊戲。在這款廣受歡迎的團隊行遊戲中，對抗擬真度驚人的恐怖份子。與團隊成員合作完成策略性任務。攻下敵人據點。拯救人質。您的角色將左右團隊的成功。您團隊的成功將影響您的角色職務。"
+  },
+  {
+    "id": 96,
+    "current_servers": "7,210",
+    "name": "American Truck Simulator",
+    "url": "https://store.steampowered.com/app/270880/American_Truck_Simulator/",
+    "imageName": "96",
+    "introduction":"Experience legendary American trucks and deliver various cargoes across sunny California, sandy Nevada, and the Grand Canyon State of Arizona. American Truck Simulator takes you on a journey through the breathtaking landscapes and widely recognized landmarks around the States."
+  },
+  {
+    "id": 97,
+    "current_servers": "7,175",
+    "name": "Hollow Knight",
+    "url": "https://store.steampowered.com/app/367520/Hollow_Knight/",
+    "imageName": "97",
+    "introduction":"Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style."
+  },
+  {
+    "id": 98,
+    "current_servers": "7,064",
+    "name": "Space Engineers",
+    "url": "https://store.steampowered.com/app/244850/Space_Engineers/",
+    "imageName": "98",
+    "introduction":"Space Engineers is a sandbox game about engineering, construction, exploration and survival in space and on planets. Players build space ships, space stations, planetary outposts of various sizes and uses, pilot ships and travel through space to explore planets and gather resources to survive."
+  },
+  {
+    "id": 99,
+    "current_servers": "7,062",
+    "name": "Squad",
+    "url": "https://store.steampowered.com/app/393380/Squad/",
+    "imageName": "99",
+    "introduction":"戰術小隊是一款通過戰術交流與配合來描繪真實戰場體驗的50vs50在線多人第一人稱射擊類遊戲。主要內容包括基於載具的聯合作戰遊戲體驗、大規模戰場、前線基地建造以及專為區域語音交流和無線電所打造的語音通訊系統。"
+  },
+  {
+    "id": 100,
+    "current_servers": "6,957",
+    "name": "Hunt: Showdown",
+    "url": "https://store.steampowered.com/app/594650/Hunt_Showdown/",
+    "imageName": "100",
+    "introduction":"Hunt: Showdown is a competitive first-person PvP bounty hunting game with heavy PvE elements, from the makers of Crysis. Set in the darkest corners of the world, it packs the thrill of survival games into a match-based format."
+  }
+]
+
